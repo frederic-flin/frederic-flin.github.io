@@ -1,0 +1,497 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Snow Microstructure - Frederic Flin</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name="Description" content="The theme "Snow Microstructure" focuses on the study of snow and its metamorphism at the microstructural scale. It is based on experimental and numerical tools such as X-ray microtomography, 3D image analysis and numerical simulations.">
+<meta name="keywords" content="snow, microstructure, microtomography,image analysis, 3D image, isothermal metamorphism, temperature gradient metamorphism, tomography, curvature, normal vectors, surface area, numerical model, experiment">
+<meta name="Author" content="Frederic Flin">
+<meta name="Copyright" content="Copyright © Frederic Flin - M&eacute;t&eacute;o-France/CNRM-GAME/CEN">
+<meta name="Distribution" content="global">
+<meta name="Robots" content="All">
+<link rel="stylesheet" media="screen" type="text/css" title="General Design" href="../styles/design.css" />
+</HEAD>
+<BODY>
+<p align="center">
+<table class="standard-table">
+    <tr>
+        <td>
+        <a href="../index.html" target="_top">Home</a> |
+        <a href="../general/f_members_us.html" target="_top">People</a> |
+        <a href="../general/f_research_us.html" target="_top">Research Topics</a> |
+        <a href="../general/f_publi_us.html" target="_top">Publications</a> |
+        <a href="../general/f_links_us.html" target="_top">Links</a>
+        </td>
+    </tr>
+</table>
+<table class="title1-table">
+    <tr><td class="highlight0">
+    Fr&eacute;d&eacute;ric FLIN</td></tr>
+</table>
+
+<br>
+
+<table class="title2-table">
+  <tr>
+    <td>
+    <span class="title2">RESEARCH SCIENTIST - "Charg&eacute; de Recherche du MEEDDM"</span>
+    </td>
+  </tr>
+</table>
+<table class="standard-table">
+  <tr>
+    <td align="left">
+        <img src="../images/classic/flin_photo_small.jpg"
+        alt="my photo" width="140" height="179" border="0" align="right">
+        <br>
+        <b><a href="../index.html" target="_top">Snow Microstructure</a></b> / MANTO Team<br>
+        <a href="http://www.cnrm.meteo.fr/cen/" target="_top">
+        Centre d'Etudes de la Neige - French Snow Research Center<br>
+        </a>
+        <a href="http://www.cnrm.meteo.fr/" target="_top">
+        CNRM-GAME (URA 1357),
+        </a>
+        <a href="http://www.meteofrance.com/" target="_top">
+        M&eacute;t&eacute;o-France
+        </a><br>1441, rue de la piscine<br>
+                        38400, Saint Martin d'H&egrave;res, France<br>
+        Tel: (+33) (0)4 76 63 79 17<br>
+        Fax: (+33) (0)4 76 51 53 46<br>
+        <br>
+        <div align="left">
+        <img src="../images/classic/img-blue-left.gif"
+        alt="This is an image." border="0">
+        </div>
+        <br>
+        New webpage:
+        <br>
+        <a href="http://www.cnrm-game.fr/spip.php?article284" target="_blank">
+        <strong>http://www.cnrm-game.fr/spip.php?article284</strong>
+        </a><br>
+        <br>
+        <!--An older webpage:
+        <br>
+        <a href="http://flin.site.voila.fr/index.html" target="_blank">
+        <strong>http://flin.site.voila.fr/index.html</strong>
+        </a>
+        -->
+        <br>
+        <strong>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table class="title2-table">
+  <tr>
+    <td>
+    <span class="title2">EDUCATION</span>
+    </td>
+  </tr>
+</table>
+<br>
+<table class="standard-table">
+  <tr>
+    <td valign="top">
+      <p align="left">&#8226; 2000 - 2004</p>
+    </td>
+    <td>
+        <p align="left"><strong>Ph.D. Ocean, Atmosphere and Hydrology</strong>.
+        <br>
+        <a href="http://www.ujf-grenoble.fr" target="_top">Joseph Fourier
+        University</a> - Grenoble, France.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><br></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p align="left">&#8226; 1999 - 2000</p>
+    </td>
+    <td>
+        <p align="left"><strong>M.Sc. Climate and Physics-Chemistry of the Atmosphere</strong>,
+        with honors.<br>
+        <a href="http://www.ujf-grenoble.fr" target="_top">Joseph Fourier
+        University</a> - Grenoble, France.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><br></td>
+  </tr>
+  <tr>
+    <td valign="top" width="20%">
+        <p align="left">&#8226; 1998 - 1999</p>
+    </td>
+    <td width="80%">
+      <p align="left">
+        <strong>B.Sc. Physics</strong>.<br>
+        Specialization in numerical simulation, hydrodynamics, geophysics, climate
+        and environment.<br>
+        <a href="http://www.ujf-grenoble.fr" target="_top">Joseph Fourier
+        University</a> - Grenoble, France.
+      </p>
+      </td>
+  </tr>
+</table>
+<br>
+
+<table class="title2-table">
+  <tr>
+    <td>
+    <span class="title2">RESEARCH EXPERIENCE</span>
+    </td>
+  </tr>
+</table>
+<br>
+<table class="standard-table">
+  <tr>
+    <td valign="top" width="20%">
+        <p align="left">&#8226; 2007 - present<p>
+    </td>
+    <td width="80%">
+        <p align="left"><a href="../index.html" target="_top">Snow Microstructure</a> / MANTO Team - <a href="http://www.cnrm.meteo.fr/cen/" target="_top">
+        Centre d&#8217;Etudes de la Neige (French Snow Research Center)</a> - <a href="http://www.cnrm.meteo.fr/" target="_top">
+        CNRM-GAME (URA 1357)</a> - <a href="http://www.meteofrance.com/" target="_top">
+        M&eacute;t&eacute;o-France</a>
+        - Grenoble, France.<br>
+        Research Scientist - &#8220;Chargé de Recherche du MEEDDM&#8221;<p>
+    </td>
+  </tr>
+<tr>
+    <td colspan="2" valign="top"><br></td>
+  </tr>
+  <tr>
+    <td valign="top" width="20%">
+        <p align="left">&#8226; 2007 (7 months)</p>
+    </td>
+    <td width="80%">
+        <p align="left"><a href="../index.html" target="_top">Snow Microstructure</a> / MANTO Team - <a href="http://www.cnrm.meteo.fr/cen/" target="_top">
+        Centre d&#8217;Etudes de la Neige (French Snow Research Center)</a> - <a href="http://www.cnrm.meteo.fr/" target="_top">
+        CNRM-GAME (URA 1357)</a> - <a href="http://www.meteofrance.com/" target="_top">
+        M&eacute;t&eacute;o-France</a>
+        - Grenoble, France.<br>
+        &#8220;Snow-White project&#8221;. ANR postdoctoral grant.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><br></td>
+  </tr>
+  <tr>
+    <td valign="top" width="20%">
+        <p align="left">&#8226; 2004 - 2007</p>
+    </td>
+    <td width="80%">
+        <p align="left"><a href="http://www.lowtem.hokudai.ac.jp/ptdice/index_e.html" target="_top">Research
+        Group for Phase Transition Dynamics of Ice</a> - <a href="http://www.lowtem.hokudai.ac.jp/english/" target="_top">Institute
+        of Low Temperature Science</a></strong> - <a href="http://www.hokudai.ac.jp/bureau/e/index-e.html" target="_top">Hokkaido
+        University</a> - Sapporo, Japan.<br>
+        &#8220;Study of the faceting transition of snow under temperature gradient&#8221;. JSPS postdoctoral fellowship.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><br></td>
+  </tr>
+  <tr>
+        <td valign="top" width="20%">
+            <p align="left">&#8226; 2000 - 2004</p>
+        </td>
+        <td valign="top" width="80%">
+            <p align="left"><a href="../index.html" target="_top">Snow Microstructure</a> / MANTO Team - <a href="http://www.cnrm.meteo.fr/cen/" target="_top">
+        Centre d&#8217;Etudes de la Neige (French Snow Research Center)</a> - <a href="http://www.cnrm.meteo.fr/" target="_top">
+        CNRM-GAME (URA 1357)</a> - <a href="http://www.meteofrance.com/" target="_top">
+        M&eacute;t&eacute;o-France</a>
+        - Grenoble, France.<br>
+        &#8220;Snow metamorphism description from 3D images obtained by X-ray
+        microtomography&#8221;. M&eacute;t&eacute;o-France doctoral grant.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><br></td>
+  </tr>
+  <tr>
+    <td valign="top">
+        <p align="left">&#8226; 2000 (6 months)</p>
+    </td>
+    <td>
+        <p align="left"><a href="../index.html" target="_top">Snow Microstructure</a> / MANTO Team - <a href="http://www.cnrm.meteo.fr/cen/" target="_top">
+        Centre d&#8217;Etudes de la Neige (French Snow Research Center)</a> - <a href="http://www.cnrm.meteo.fr/" target="_top">
+        CNRM-GAME (URA 1357)</a> - <a href="http://www.meteofrance.com/" target="_top">
+        M&eacute;t&eacute;o-France</a>
+        - Grenoble, France.<br>
+        &#8220;Snow 3D imaging by X-ray tomography: a method to compute normal
+        vectors of a discrete surface&#8221;.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><br></td>
+  </tr>
+  <tr>
+    <td valign="top">
+        <p align="left">&#8226; 1999 (6 months)</p>
+    </td>
+    <td>
+    <p align="left"><a href="http://geo.phys.spbu.ru/geoelectr/index.html" target="_top">Geoelectricity
+        Laboratory</a> - <a href="http://geo.phys.spbu.ru/" target="_top">Earth
+        Physics Department</a> - <a href="http://www.spbu.ru/e/" target="_top">Saint-Petersburg
+        State University</a>, Russia.<br>
+        &#8220;Fractal analysis of cores taken from Western Siberian oil wells&#8221;. Grant of the Rh&ocirc;ne-Alpes region.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top"><br></td>
+  </tr>
+  <tr>
+    <td valign="top">
+    <p align="left">&#8226; 1998 (2 months)</p>
+    </td>
+    <td>
+    <p align="left"><a href="http://www-drfmc.cea.fr/english/SP2M/PSC/" target="_top">
+        Semiconductor Physics Laboratory</a> - <a href="http://www.cea.fr/default_gb.htm" target="_top">CEA-<a href="http://www.cnrs.fr/index.html" target="_top">CNRS</a>
+        - Grenoble, France.<br>
+        &#8220;Temperature dependence of the CdMgTe gap energy&#8221;.</p>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+<table class="title2-table">
+  <tr>
+    <td>
+    <span class="title2">SCIENTIFIC RESPONSABILITIES</span>
+    </td>
+  </tr>
+</table>
+<br>
+<table class="standard-table">
+  <tr>
+  <td>
+    <ul class="marker-disc">
+      <li><p align="justify"><a href="http://www.cnrm.meteo.fr/cen/" target="_top">CEN</a> coordinator of the ANR "Snow-White" project (ANR-06-BLAN-0396, Project leader: <a href="http://www-lgge.ujf-grenoble.fr/axes/rheologie/jacques.shtml" target="_top">J. Meyssonnier</a>, <a href="http://www-lgge.ujf-grenoble.fr/" target="_top">LGGE</a>).</p></li>
+      <li><p align="justify">Member of the <a href="http://vor.grenoble-inp.fr/95839379/1/fiche___pagelibre/&RH=VOR_FR&RF=VOR_EN"
+                target="_top">GIS VOR</a> research network committee (Director: <a href="http://www.3s-r.hmg.inpg.fr/3sr/spip.php?article155&lang=en" target="_top">J. Mazars</a>).</p></li>
+      <li><p align="justify">Member of the evaluation committee of the <a href="http://www.cnrm.meteo.fr" target="_top">CNRM</a> researchers.</p></li>
+    </ul>
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table class="title2-table">
+  <tr>
+    <td>
+    <span class="title2">RESEARCH AWARDS &amp; GRANTS</span>
+    </td>
+  </tr>
+</table>
+<br>
+<table class="standard-table">
+    <tr>
+  <td>
+    <ul class="marker-disc">
+      <li><p align="justify">
+            &#8220;Initiative Post-Doc&#8221; award - 2004
+            (French Research Ministry).
+            </p>
+    </ul>
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<table class="title2-table">
+  <tr>
+    <td>
+    <span class="title2">SELECTED PUBLICATIONS</span>
+    </td>
+  </tr>
+</table>
+<table class="standard-table">
+  <tr>
+    <td>
+        <br>
+        <ol>
+            <li>
+                <p align="justify">
+                Rolland du Roscoat, S., A.&nbsp;King, A.&nbsp;Philip, P.&nbsp;Reischig, W.&nbsp;Ludwig, F.&nbsp;Flin and J.&nbsp;Meyssonnier. <b>Analysis of snow microstructure by means of X-ray Diffraction Contrast Tomography</b>, <em><a href="http://eu.wiley.com/WileyCDA/WileyTitle/productCd-2266.html"
+                target="_top">Adv. Eng. Mater.</a></em>, in press.
+                </p>
+            </li>
+            <li>
+                <p align="justify">
+                Flin, F. and J.-B. Brzoska, 2008.
+                <a href="http://www.igsoc.org/annals/49/accepted.html" target="_top">
+                The temperature gradient metamorphism of snow: vapour diffusion model and application to tomographic images</a>,
+                <em><a href="http://www.igsoc.org/annals/"
+                target="_top">
+                Ann. Glaciol.</a></em>,
+                <b>49</b>, 17-21.
+                <a href="http://www.igsoc.org/annals/49/t49A128.pdf"
+                target="_top">
+                [<img class="icon" src="../images/classic/icon_pdf.gif">
+                pdf, 334 kb]</a>
+                </p>
+            </li>
+            <li>
+                <p align="justify">
+                Brzoska, J.-B., F.&nbsp;Flin and J.&nbsp;Barckicke, 2008.
+                <a href="http://www.igsoc.org/annals/48/index.html" target="_top">
+                Explicit iterative computation of diffusive vapour field in the 3-D snow matrix: preliminary results for low flux metamorphism</a>,
+                <em><a href="http://www.igsoc.org/annals/"
+                target="_top">
+                Ann. Glaciol.</a></em>,
+                <b>48</b>, 13-18.
+                <a href="http://www.igsoc.org/annals/48/t48A019.pdf"
+                target="_top">
+                [<img class="icon" src="../images/classic/icon_pdf.gif">
+                pdf, 1379 kb]</a>
+                </p>
+            </li>
+            <li>
+                <p align="justify">
+                Flin, F., J.-B. Brzoska, R.A. Pieritz, B.&nbsp;Lesaffre, C.&nbsp;Col&#233;ou and Y.&nbsp;Furukawa, 2007.
+                <b><!--<a href="http://" target="_top">-->
+                The temperature gradient metamorphism of snow: Model and first validations using X-ray microtomographic images<!--</a>--></b>,
+                Kuhs, W., ed.,
+                <a href="http://www.springer.com/chemistry/book/978-0-85404-350-7" target="_top">Physics and Chemistry of Ice</a>,
+                RSC Publishing, Cambridge, UK, 181-189.
+                </p>
+            </li>
+            <li>
+                <p align="justify">
+                Brzoska, J.-B., F.&nbsp;Flin and N.&nbsp;Ogawa, 2007.
+                <b><!--<a href="http://" target="_top">-->
+                Using Gaussian curvature for the 3D segmentation of snow grains from microtomographic data<!--</a>--></b>,
+                Kuhs, W., ed.,
+                <a href="http://www.springer.com/chemistry/book/978-0-85404-350-7" target="_top">Physics and Chemistry of Ice</a>,
+                RSC Publishing, Cambridge, UK, 125-132.
+                </p>
+            </li>
+            <li>
+                <p align="justify">
+                Flin, F., J.-B. Brzoska, D.&nbsp;Coeurjolly, R.&nbsp;A. Pieritz, B.&nbsp;Lesaffre,
+                C.&nbsp;Col&#233;ou, P.&nbsp;Lamboley, O.&nbsp;Teytaud, G.&nbsp;L. Vignoles and J.-F. Delesse, 2005.
+                <a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?isnumber=30691&arnumber=1420390&count=13&index=3" target="_top">
+                Adaptive estimation of normals and surface area for discrete 3-D
+                objects: application to snow binary data from X-ray tomography</a>,
+                <em><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?puNumber=83"
+                target="_top">
+                IEEE Trans. Image Process.</a></em>,
+                <b>14</b>(5), 585-596, (10.1109/TIP.2005.846021).
+                <a href="http://hal-meteofrance.archives-ouvertes.fr/docs/00/18/50/86/PDF/Flin-2005_liris1236.pdf" target="_top">
+                [<img class="icon" src="../images/classic/icon_pdf.gif"> pdf, 8.4 mb]</a>
+                </p>
+            </li>
+            <li>
+                <p align="justify">
+                Flin, F., J.-B. Brzoska, B.&nbsp;Lesaffre, C.&nbsp;Col&#233;ou and R.&nbsp;A. Pieritz, 2004.
+                <a href="http://www.ingentaconnect.com/content/igsoc/agl/2004/00000038/00000001/art00009" target="_top">
+                Three-dimensional geometric measurements of snow microstructural evolution under isothermal conditions</a>,
+                <em><a href="http://www.igsoc.org/annals/"
+                target="_top">
+                Ann. Glaciol.</a></em>,
+                <b>38</b>, 39-44, (10.3189/172756404781814942).
+                </p>
+            </li>
+            <li>
+                <p align="justify">
+                Flin, F., J.-B. Brzoska, B.&nbsp;Lesaffre, C.&nbsp;Col&#233;ou and R.&nbsp;A. Pieritz, 2003.
+                <a href="http://www.iop.org/EJ/abstract/0022-3727/36/10A/310" target="_top">
+                Full three-dimensional modelling of curvature-dependent snow metamorphism:
+                first results and comparison with experimental tomographic data</a>,
+                <em>
+                <a href="http://www.iop.org/EJ/journal/JPhysD"
+                target="_top">J. Phys. D. Appl. Phys.</a></em>,
+                <b>36</b>, A49-A54, (10.1088/0022-3727/36/10A/310).
+                <a href="../articles/JPhysicsD36-10-A49.pdf" target="_top">
+                [<img class="icon" src="../images/classic/icon_pdf.gif"> pdf, 371
+                kb]</a>
+                </p>
+            </li>
+        </ol>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table class="title2-table">
+  <tr>
+    <td>
+    <span class="title2">INVITED PRESENTATIONS</span>
+    </td>
+  </tr>
+</table>
+<table class="standard-table">
+  <tr>
+    <td>
+        <br>
+        <ol>
+<li>
+                <p align="justify">
+                Flin, F. and J.-B. Brzoska, 2008.
+                <b>X-Ray microtomography: an interesting tool to study the snow microstructure and its metamorphism</b>,
+                <em><a href="http://engineering.dartmouth.edu/firn/"
+                target="_top">
+                Workshop on the Microstructure and Properties of Firn</a></em>,
+                Dartmouth College, Hanover, NH 03755, March 10-11, 2008.
+                </p>
+            </li>
+            <li>
+                <p align="justify">
+                Flin, F., J.-B. Brzoska, Y. Furukawa.<b>
+                Crystal growth in deposited snow: experiment, physical modeling and simulation</b>,
+                <em><a href="http://www.iciam07.ch/poster"
+                target="_top">
+                6th International Congress on Industrial and applied Mathematics</a></em>, Zuerich, July 16-20, 2007.                </p>
+            </li>
+        </ol>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table class="standard-table">
+    <tr>
+        <td>
+        <a href="../index.html" target="_top">Home</a> |
+        <a href="../general/f_members_us.html" target="_top">People</a> |
+        <a href="../general/f_research_us.html" target="_top">Research Topics</a> |
+        <a href="../general/f_publi_us.html" target="_top">Publications</a> |
+        <a href="../general/f_links_us.html" target="_top">Links</a>
+        </td>
+    </tr>
+</table>
+
+
+<hr color="#AAAAAA">
+<table class="standard-table">
+    <tr>
+        <td>
+        <b><a href="../index.html" target="_top">Snow Microstructure</a></b> / MANTO Team<br>
+        <a href="http://www.cnrm.meteo.fr/cen/" target="_top">
+        Centre d'Etudes de la Neige - French Snow Research Center<br>
+        </a>
+        <a href="http://www.cnrm.meteo.fr/" target="_top">
+        CNRM-GAME (URA 1357),
+        </a>
+        <a href="http://www.meteofrance.com/" target="_top">
+        M&eacute;t&eacute;o-France
+        </a><br>1441, rue de la piscine<br>
+                        38400, Saint Martin d'H&egrave;res, France<br>
+
+        Copyright ©
+        M&eacute;t&eacute;o-France/CNRM-GAME/CEN
+        </td>
+    </tr>
+</table>
+
+</p>
+</body>
+</html>

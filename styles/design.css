@@ -1,0 +1,158 @@
+
+/* taille typo
+ * Base				100%
+ * -------------------------------------
+ * 20px				1.27em
+ * 19px				1.21em
+ * 18px				1.15em
+ * 17px				1.09em
+ * 16px				1.03em
+ * 15px				0.96em
+ * 14px				0.88em
+ * 13px				0.82em
+ * 12px				0.77em
+ * 11px				0.71em
+ * 10px				0.65em
+ *  9px				0.59em
+ * Attention : en dessous de 0.71em le texte devient illisible en text smallest sur MSIE
+ */
+ 
+/*Style of links*/
+
+a {color: #000066; text-decoration: none; font-weight: none} /*#666fff*/
+a:hover {color: #EE0000; text-decoration: none; font-weight: none}
+a:active {color: #EE0000; text-decoration: none; font-weight: none}
+
+/*--*/
+
+/*Font settings*/
+body
+{
+    font-family: Verdana, Tahoma, Arial, sans-serif; 
+    background: #FFFFFF;
+    font-size: 1em;
+}
+
+body table {font-size: 0.77em;}
+
+.date
+{
+color: #EE0000;/*#DD5500*/;
+}
+
+
+.standard-table
+{
+    width: 100%; /*634px*/
+    background: #FFFFFF;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.title1-table
+{
+
+	background: #AAAACC;
+	padding: 0px;
+	width: 100%; /*634px*/
+	font-size: 1em;
+    	color: #000066;
+    	font-weight: bold;
+    	text-align: center;
+}
+
+td.highlight0{
+	background:  #CCCCEE;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #BBBBDD;
+}
+
+
+td.highlight{
+	background:  #CCCCEE;
+	border-style: solid;
+	border-width: 3px;
+	border-color:#BBBBDD;
+}
+td.highlight:hover {background-color: #EEEEFF}
+
+td.highlight2{
+	background:  #EEEEFF;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #DDDDFF;
+}
+
+.red_title{
+	color : #EE0000;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.title2-table
+{
+    width: 100%; /*634px*/
+    background: url(../images/classic/wlbk067a-lc.jpg);
+    text-align: left;
+    padding: 2px;
+}
+
+.marges
+{
+    margin: 10px;
+}
+
+ul { margin: 20px; margin-bottom: 5px; margin-top: 5px; padding: 0px 2px; text-align: left; list-style: none; }
+ol { margin-left: 20px; margin-right: 10px; margin-bottom: 5px; margin-top: 5px; padding: 0px 2px; text-align: left;}
+dl { margin: 20px; margin-bottom: 5px; margin-top: 5px; padding: 0px 2px; text-align: justify; list-style: none; }
+
+.marker
+{
+    list-style: circle;
+    margin-left: 10px;
+}
+
+.marker-disc
+{
+    list-style: circle;
+    margin-left: 20px;
+}
+
+.marker-small
+{
+    list-style: square;
+    margin-left: 20px;
+}
+
+.title1
+{
+    font-size: 1em;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+
+table .title1 {font-size: 1em;}
+
+.title2
+{
+    font-size: 0.77em;
+    color: #000000;
+    font-weight: bold;
+}
+
+table .title2 {font-size: 1em;}
+
+.icon
+{
+    height: 1.2em;
+    border: 0em;
+    vertical-align: bottom;
+}
+
+.email
+{
+    border: 0em;
+    vertical-align: bottom;
+}

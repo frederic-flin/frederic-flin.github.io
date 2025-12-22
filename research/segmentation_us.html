@@ -1,0 +1,167 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Snow Microstructure - Research Topics</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<meta name="Description" content="The theme "Snow Microstructure" focuses on the study of snow and its metamorphism at the microstructural scale. It is based on experimental and numerical tools such as X-ray microtomography, 3D image analysis and numerical simulations.">
+<meta name="keywords" content="snow, microstructure, microtomography,image analysis, 3D image, isothermal metamorphism, temperature gradient metamorphism, tomography, curvature, normal vectors, surface area, numerical model, experiment">
+<meta name="Author" content="Frederic Flin">
+<meta name="Copyright" content="Copyright © Frederic Flin - M&eacute;t&eacute;o-France/CNRM-GAME/CEN">
+<meta name="Distribution" content="global">
+<meta name="Robots" content="All">
+<link rel="stylesheet" media="screen" type="text/css" title="General Design" href="../styles/design.css" />
+</HEAD>
+<BODY>
+<p align="center">
+<table class="standard-table">
+    <tr>
+        <td>
+        <a href="../index.html" target="_top">Home</a> |
+        <a href="../general/f_members_us.html" target="_top">People</a> |
+        <a href="../general/f_research_us.html" target="_top">Research Topics</a> |
+        <a href="../general/f_publi_us.html" target="_top">Publications</a> |
+        <a href="../general/f_links_us.html" target="_top">Links</a>
+        </td>
+    </tr>
+</table>
+
+<table class="title1-table">
+    <tr>
+    <td class="highlight">
+        <a href="../general/f_research_us.html" target="_top">Research Topics</a>
+    </td>
+    </tr>
+</table>
+
+<br>
+
+<a name="curvature-map"></a>
+<table class="standard-table">
+    <tr>
+        <td colspan="3">
+            <p align="justify" class="marges">
+            <font class="red_title">
+            Grain Segmentation
+            </font>
+            <br>
+            <br>
+Deposited snow on the ground consists of ice grains that have been welded by thermo-dynamical and mechanical constraints. To analyse the snow microstructure and to understand its formation and its time evolution, it is often required to numerically separate these ice grains from their neighbours. Commonly used three-dimensional imaging methods do not provide any direct information on the boundaries between grains. To obtain an accurate segmentation, we developed a geometrical method that is based on the detection of concavities on the ice surface.
+<br><br>
+On the three-dimensional image, it is possible to compute, for each point of the surface, the Gaussian and mean curvatures, which, when combined, provide the sign of the smallest principal curvature (<i><b>Fig. 1</b></i>). The surface of the object can then be separated into two regions: one positive and the other one negative. By using a Voronoi diagram, regions are extended to the whole object. The volume elements of the negative region are then removed, providing a set of disconnected objects. These objects are then used as seeds for a second Voronoi diagram, allowing to obtain the desired segmentation.
+<br><br>
+This curvature-driven grain segmentation algorithm has been tested on granular-shaped snow images obtained by absorption tomography. In order to validate the obtained results, we used Diffraction Contrast Tomography (DCT), a technique recently developed in order to map individual grains in a material sample: as each snow grain has a particular crystalline orientation, this diffraction-based method is able to locate individual grains precisely. Results are presented in figures <i><b>2</b></i> and <i><b>3</b></i>.
+
+            </p>
+        </td>
+        </tr>
+        <tr>
+        <td width="30%">
+    <img src="../images/classic/research/segment_curv_small.gif" alt="Curvature map of the smallest principal curvature.">
+        </td>
+        <td width="30%">
+    <img src="../images/classic/research/segment_algo_small.gif" alt="Segmentation of a snow sample obtained by X-ray absorption tomography: results after applying our curvature-driven grain segmentation algorithm.">
+        </td>
+        <td width="30%">
+    <img src="../images/classic/research/segment_exp_small.gif" alt="Segmentation of the same sample, but obtained by Diffraction Contrast Tomography.">
+        </td>
+    </tr>
+    <tr>
+        <td width="30%">
+    <p align="center">
+    <font size="1">Fig. 1: Map of the smallest principal curvature for a snow sample obtained by X-ray absorption tomography: green colour corresponds to zones where the smallest curvature is negative (concavities are present, at least in some directions) while red corresponds to positive zones (no concavities).
+    <font>
+    </p>
+        </td>
+        <td width="30%">
+    <p align="center">
+    <font size="1">Fig. 2: Segmentation of a snow sample obtained by X-ray absorption tomography: results after applying our curvature-driven grain segmentation algorithm (to each colour corresponds a single grain).<font>
+    </p>
+        </td>
+        <td width="30%">
+    <p align="center">
+    <font size="1">Fig. 3: Segmentation of the same sample, but obtained by Diffraction Contrast Tomography.<font>
+    </p>
+        </td>
+    </tr>
+  <tr>
+    </tr>
+    <tr>
+    <td colspan="3">
+<font size="1">
+<b><p align="left">
+Further reading:
+</p></b>
+<ul>
+    <li>
+                <p align="justify">
+                Brzoska, J.-B., F.&nbsp;Flin and N.&nbsp;Ogawa, 2007.
+                <b><!--<a href="http://" target="_top">-->
+                Using Gaussian curvature for the 3D segmentation of snow grains from microtomographic data<!--</a>--></b>,
+                Kuhs, W., ed.,
+                <a href="http://www.springer.com/chemistry/book/978-0-85404-350-7" target="_top">Physics and Chemistry of Ice</a>,
+                RSC Publishing, Cambridge, UK, 125-132.
+                </p>
+    </li>
+    <li>
+                <p align="justify">
+                Ogawa, N., F.&nbsp;Flin and J.-B. Brzoska, 2006.
+                <a href="http://sciencelinks.jp/j-east/article/200614/000020061406A0449864.php" target="_top">
+                Representation of two curvatures of surface and its application to snow physics</a>,
+                <em>
+                <a href="http://sciencelinks.jp/j-east/journal/M/Y0585A/2006.php" target="_top">
+                Memoirs of the Hokkaido Institute of Technology</a></em>,
+                <b>34</b>, 81-87.
+                </p>
+    </li>
+</ul>
+</font>
+    </td>
+  </tr>
+</table>
+
+
+<table class="title1-table">
+    <tr>
+    <td class="highlight">
+        <a href="../index.html" target="_top">Back to Home</a>
+    </td>
+    </tr>
+</table>
+
+<table class="standard-table">
+    <tr>
+        <td>
+        <a href="../index.html" target="_top">Home</a> |
+        <a href="../general/f_members_us.html" target="_top">People</a> |
+        <a href="../general/f_research_us.html" target="_top">Research Topics</a> |
+        <a href="../general/f_publi_us.html" target="_top">Publications</a> |
+        <a href="../general/f_links_us.html" target="_top">Links</a>
+        </td>
+    </tr>
+</table>
+
+<hr color="#AAAAAA">
+<table class="standard-table">
+    <tr>
+        <td>
+        <b><a href="../index.html" target="_top">Snow Microstructure</a></b> / MANTO Team<br>
+        <a href="http://www.cnrm.meteo.fr/cen/" target="_top">
+        Centre d'Etudes de la Neige - French Snow Research Center<br>
+        </a>
+        <a href="http://www.cnrm.meteo.fr/" target="_top">
+        CNRM-GAME (URA 1357),
+        </a>
+        <a href="http://www.meteofrance.com/" target="_top">
+        M&eacute;t&eacute;o-France
+        </a><br>1441, rue de la piscine<br>
+                        38400, Saint Martin d'H&egrave;res, France<br>
+
+        Copyright ©
+        M&eacute;t&eacute;o-France/CNRM-GAME/CEN
+        </td>
+    </tr>
+</table>
+
+</p>
+</body>
+</html>
